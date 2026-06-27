@@ -1,0 +1,1342 @@
+[
+  {
+    "id": 1,
+    "serial": 1,
+    "title": "yet another isolation",
+    "company": "Martin Laschkolnig",
+    "rating": 5,
+    "clientName": "Martin Laschkolnig",
+    "clientPhoto": "/Portraits/Martin Laschkolnig.jpeg",
+    "feedback": "Absolute 5* experience, great job well done!",
+    "category": "Photo Editing /  Background Removal",
+    "delivered": "/Contracts/yet another isolation/Delivered Image.png",
+    "allImages": [
+      "/Contracts/yet another isolation/Delivered Image.png"
+    ]
+  },
+  {
+    "id": 3,
+    "serial": 3,
+    "title": "Vectorize Image In Adobe Illustrator",
+    "company": "Domonique M",
+    "rating": 5,
+    "clientName": "Domonique M",
+    "clientPhoto": "/Portraits/Domonique M.jpg",
+    "feedback": "Nazia was amazing!!! Her communication is excellent. There were no language barriers at all. I needed a PNG file to be converted to AI and she did it with no problem all within the same day of hiring her. When I realized I made a mistake on the file, she fixed it with no problem and was willing to make any changes if needed. Anyone else who hires her will not be disappointed. I'll be coming back for more work",
+    "category": "Vector Conversion / Vectorization / Image to Vector",
+    "delivered": "/Contracts/Vectorize Image In Adobe Illustrator/dog-mama-print.png",
+    "allImages": [
+      "/Contracts/Vectorize Image In Adobe Illustrator/dog-mama-print.png"
+    ]
+  },
+  {
+    "id": 4,
+    "serial": 4,
+    "title": "Urgent! Need vector versions of 4 logos by Friday AM",
+    "company": "Ward Company",
+    "rating": 5,
+    "clientName": "Jennifer Ward",
+    "clientPhoto": "/Portraits/Jennifer Ward.jpg",
+    "feedback": "Great job!",
+    "category": "Vector Conversion / Vectorization / Image to Vector",
+    "delivered": "/Contracts/Urgent! Need vector versions of 4 logos by Friday AM/KOLeeLogo_582x284.png",
+    "allImages": [
+      "/Contracts/Urgent! Need vector versions of 4 logos by Friday AM/KOLeeLogo_582x284.png",
+      "/Contracts/Urgent! Need vector versions of 4 logos by Friday AM/StandardModern_500x360.png",
+      "/Contracts/Urgent! Need vector versions of 4 logos by Friday AM/WF_JohnBarneslarge.png",
+      "/Contracts/Urgent! Need vector versions of 4 logos by Friday AM/dekajohnson.png"
+    ]
+  },
+  {
+    "id": 10,
+    "serial": 10,
+    "title": "Update a image",
+    "company": "Love Never Fails International",
+    "rating": 5,
+    "clientName": "John Kraus",
+    "clientPhoto": "/Portraits/John Kraus.jpeg",
+    "feedback": "",
+    "category": "Print / Adobe Photoshop / Invitation Card",
+    "delivered": "/Contracts/Update a image/FB-Post-Oct-16-1-week-out.jpg",
+    "allImages": [
+      "/Contracts/Update a image/FB-Post-Oct-16-1-week-out.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "serial": 13,
+    "title": "Trace 7 hand-drawn images to create vectors",
+    "company": "L Design",
+    "rating": 5,
+    "clientName": "Derek Frankel",
+    "clientPhoto": "/Portraits/Derek Frankel.jpg",
+    "feedback": "",
+    "category": "Print /Adobe Illustrator File Editing / Vector Conversion / File Update from Blender",
+    "delivered": "/Contracts/Trace 7 hand-drawn images to create vectors Alex Nem, L Design/Lisa-and-Danielle-revised.png",
+    "allImages": [
+      "/Contracts/Trace 7 hand-drawn images to create vectors Alex Nem, L Design/Lisa-and-Danielle-revised.png",
+      "/Contracts/Trace 7 hand-drawn images to create vectors Alex Nem, L Design/PH-house-back-final-revise.png",
+      "/Contracts/Trace 7 hand-drawn images to create vectors Alex Nem, L Design/PhilipsHouserevised.png",
+      "/Contracts/Trace 7 hand-drawn images to create vectors Alex Nem, L Design/cakeimagerevised.png",
+      "/Contracts/Trace 7 hand-drawn images to create vectors Alex Nem, L Design/ph.us.revised.png"
+    ]
+  },
+  {
+    "id": 16,
+    "serial": 16,
+    "title": "Three Dimensional Product Images Needed",
+    "company": "Mahalo Brands",
+    "rating": 5,
+    "clientName": "David Wood",
+    "clientPhoto": "/Portraits/David Wood.jpg",
+    "feedback": "Very fast freelancer. Thank you",
+    "category": "Print / Adobe Photoshop / Ads",
+    "delivered": "/Contracts/Three Dimensional Product Images Needed/1.jpg",
+    "allImages": [
+      "/Contracts/Three Dimensional Product Images Needed/1.jpg",
+      "/Contracts/Three Dimensional Product Images Needed/2.jpg",
+      "/Contracts/Three Dimensional Product Images Needed/3.jpg",
+      "/Contracts/Three Dimensional Product Images Needed/Back Shadowed.png",
+      "/Contracts/Three Dimensional Product Images Needed/Back transparent.png",
+      "/Contracts/Three Dimensional Product Images Needed/Collage.gif"
+    ]
+  },
+  {
+    "id": 28,
+    "serial": 28,
+    "title": "Reproduce an image for print",
+    "company": "Executive Platforms Inc.",
+    "rating": 5,
+    "clientName": "Ted Stefanidis",
+    "clientPhoto": "/Portraits/Ted Stefanidis.jpg",
+    "feedback": "",
+    "category": "Print",
+    "delivered": "/Contracts/Reproduce an image for print/harland-miller-i-am-the-one-i’ve-been-waiting-for.jpg",
+    "allImages": [
+      "/Contracts/Reproduce an image for print/harland-miller-i-am-the-one-i’ve-been-waiting-for.jpg"
+    ]
+  },
+  {
+    "id": 32,
+    "serial": 32,
+    "title": "Remake Image as Editable File",
+    "company": "LIBEROSOCIAL S.R.L.",
+    "rating": 5,
+    "clientName": "Andrea Messetti",
+    "clientPhoto": "/Portraits/Andrea Messetti.avif",
+    "feedback": "Nazia has once again been greatly efficient, quick and perfect quality of work.",
+    "category": "",
+    "delivered": "/Contracts/Remake Image as Editable File/AskU_name2.png",
+    "allImages": [
+      "/Contracts/Remake Image as Editable File/AskU_name2.png",
+      "/Contracts/Remake Image as Editable File/askuapp-official-logo.png"
+    ]
+  },
+  {
+    "id": 34,
+    "serial": 34,
+    "title": "Refine an AI logo file",
+    "company": "Jen Depakakibo",
+    "rating": 5,
+    "clientName": "Jen D",
+    "clientPhoto": "/Portraits/Jen Depakakibo.jpg",
+    "feedback": "Nazia worked well with us to achieve what we wanted, was very patient as we worked through the process. Would definitely use her again!",
+    "category": "Vectorization / Logo / Image to Vector / Adobe Illustrator",
+    "delivered": "/Contracts/Refine an Al logo file/logo.PNG",
+    "allImages": [
+      "/Contracts/Refine an Al logo file/logo.PNG"
+    ]
+  },
+  {
+    "id": 35,
+    "serial": 35,
+    "title": "Redraw postal code map in Adobe Illustrator",
+    "company": "-",
+    "rating": 5,
+    "clientName": "Andreas Schroeter",
+    "clientPhoto": "/Portraits/Andreas Schroeter.jpg",
+    "feedback": "Nazia underestimated the original time it took but worked over the weekend to make sure the file was delivered on time. Awesome, highly recommended.",
+    "category": "Web / Print / Vector Conversion / Vectorization / Adobe Illustrator",
+    "delivered": "/Contracts/Redraw postal code map in Adobe Illustrator/toronto-postal-code-map.jpg",
+    "allImages": [
+      "/Contracts/Redraw postal code map in Adobe Illustrator/toronto-postal-code-map.jpg"
+    ]
+  },
+  {
+    "id": 36,
+    "serial": 36,
+    "title": "Redesign leaflet for use on standee",
+    "company": "Sadaf Raza",
+    "rating": 5,
+    "clientName": "Sadaf Raza",
+    "clientPhoto": "/Portraits/Sadaf Raza.avif",
+    "feedback": "Nazia worked diligently to satisfy all my requirements. She produced work of an excellent standard in a timely manner and I would not hesitate to recommend her.",
+    "category": "Print / Leaflet / Illustrator / Photoshop / Design",
+    "delivered": "/Contracts/Redesign leaflet for use on standee/6th-Draft.jpg",
+    "allImages": [
+      "/Contracts/Redesign leaflet for use on standee/6th-Draft.jpg"
+    ]
+  },
+  {
+    "id": 39,
+    "serial": 39,
+    "title": "recreate tree design",
+    "company": "fant smith",
+    "rating": 5,
+    "clientName": "fant smith",
+    "clientPhoto": "/Portraits/fant smith.jpg",
+    "feedback": "excellent experience!! i would definitely recommend her for illustrative work! Such a pleasure to work with! And FAST!!",
+    "category": "Print / Vector / Adobe Illustrator",
+    "delivered": "/Contracts/recreate tree design/MEI_tree_300dpi_with_text.jpg",
+    "allImages": [
+      "/Contracts/recreate tree design/MEI_tree_300dpi_with_text.jpg"
+    ]
+  },
+  {
+    "id": 40,
+    "serial": 40,
+    "title": "Recreate Logo in Adobe Illustrator and Export it in .EPS format",
+    "company": "LIBEROSOCIAL S.R.L.",
+    "rating": 5,
+    "clientName": "Andrea Messetti",
+    "clientPhoto": "/Portraits/Andrea Messetti.avif",
+    "feedback": "Nazia has been super quick and efficient. She delivered before the expected time and perfect work. Recommended!",
+    "category": "Web / Mobile App / Logo / Adobe Illustrator",
+    "delivered": "/Contracts/Recreate Logo in Adobe Illustrator and Export it in .EPS format/Muller_Brown.png",
+    "allImages": [
+      "/Contracts/Recreate Logo in Adobe Illustrator and Export it in .EPS format/Muller_Brown.png",
+      "/Contracts/Recreate Logo in Adobe Illustrator and Export it in .EPS format/asku-app-logo.png"
+    ]
+  },
+  {
+    "id": 41,
+    "serial": 41,
+    "title": "Recreate a flyer from jpg.",
+    "company": "Love Never Fails International",
+    "rating": 5,
+    "clientName": "John Kraus",
+    "clientPhoto": "/Portraits/John Kraus.jpeg",
+    "feedback": "She took a flyer in pdf, customized it for our company, and put it into ai. Excellent in everything! Thank you!",
+    "category": "Print / Vector / Adobe Illustrator",
+    "delivered": "/Contracts/Recreate a flyer from jpg/Artboard-1.jpg",
+    "allImages": [
+      "/Contracts/Recreate a flyer from jpg/Artboard-1.jpg",
+      "/Contracts/Recreate a flyer from jpg/Artboard-2.jpg"
+    ]
+  },
+  {
+    "id": 42,
+    "serial": 42,
+    "title": "Radiology Request design",
+    "company": "Andrew  Makari",
+    "rating": 5,
+    "clientName": "Andrew Makari",
+    "clientPhoto": "/Portraits/Andrew Makari.png",
+    "feedback": "",
+    "category": "Print / Web / PDF Form/  Vector / Adobe Illustrator",
+    "delivered": "/Contracts/Radiology Request design/Request Form Update October 6 24 Print Ready.jpg",
+    "allImages": [
+      "/Contracts/Radiology Request design/Request Form Update October 6 24 Print Ready.jpg",
+      "/Contracts/Radiology Request design/Request Form Update October 6 24.jpg"
+    ]
+  },
+  {
+    "id": 44,
+    "serial": 44,
+    "title": "Print Layout Production in Photoshop: Add Consistent Headers + Footers and Create Final PDF versions of Printed Handouts",
+    "company": "Big Support for Small Business",
+    "rating": 5,
+    "clientName": "Rachel Lewett",
+    "clientPhoto": "/Portraits/Rachel Lewett.webp",
+    "feedback": "Nazia did the detailed work 100% correctly and in very fast time. She reached out immediately when the Upwork site was down in Pakistan and we found another way to communicate in order to not delay the timeline. Her proactivity and the clarity of her work is why i would hire her again, and I definitely recommend her for similar assignments. thanks Nazia!",
+    "category": "Photoshop File Editing",
+    "delivered": "/Contracts/Print Layout Production in Photoshop Add Consistent Headers + Footers and Create Final PDF versions of Printed Handouts/1.1.png",
+    "allImages": [
+      "/Contracts/Print Layout Production in Photoshop Add Consistent Headers + Footers and Create Final PDF versions of Printed Handouts/1.1.png",
+      "/Contracts/Print Layout Production in Photoshop Add Consistent Headers + Footers and Create Final PDF versions of Printed Handouts/1.3.png",
+      "/Contracts/Print Layout Production in Photoshop Add Consistent Headers + Footers and Create Final PDF versions of Printed Handouts/1.4.png",
+      "/Contracts/Print Layout Production in Photoshop Add Consistent Headers + Footers and Create Final PDF versions of Printed Handouts/1.png",
+      "/Contracts/Print Layout Production in Photoshop Add Consistent Headers + Footers and Create Final PDF versions of Printed Handouts/2.1.png",
+      "/Contracts/Print Layout Production in Photoshop Add Consistent Headers + Footers and Create Final PDF versions of Printed Handouts/2.3.png"
+    ]
+  },
+  {
+    "id": 45,
+    "serial": 45,
+    "title": "Print Aura T-Shirt Design (File Changes) - Easy Job",
+    "company": "Dean Matthews",
+    "rating": 5,
+    "clientName": "Dean Matthews",
+    "clientPhoto": "/Portraits/Dean Matthews.jpg",
+    "feedback": "very professional and excellent work!",
+    "category": "T-Shirt Design / Print / Adobe Illustrator / Adobe Photshop / PDF",
+    "delivered": "/Contracts/Print Aura T-Shirt Design (File Changes) - Easy Job/BFLY-graphic-on-top-CMYK-2.png",
+    "allImages": [
+      "/Contracts/Print Aura T-Shirt Design (File Changes) - Easy Job/BFLY-graphic-on-top-CMYK-2.png",
+      "/Contracts/Print Aura T-Shirt Design (File Changes) - Easy Job/BFLY_BACK_1.png",
+      "/Contracts/Print Aura T-Shirt Design (File Changes) - Easy Job/BFLY_BACK_2 (1).png",
+      "/Contracts/Print Aura T-Shirt Design (File Changes) - Easy Job/BFLY_BACK_3 (1).png",
+      "/Contracts/Print Aura T-Shirt Design (File Changes) - Easy Job/BFLY_FRONT.png"
+    ]
+  },
+  {
+    "id": 50,
+    "serial": 50,
+    "title": "Photoshopping of file",
+    "company": "Haldi Namak",
+    "rating": 5,
+    "clientName": "R. Bhavnani",
+    "clientPhoto": "/Portraits/R. Bhavnani.jpg",
+    "feedback": "Just great! Wonderful to work with",
+    "category": "Web / Ads / Illustrator / Photoshop",
+    "delivered": "/Contracts/Photoshopping of file/Untitled-03---Copy.png",
+    "allImages": [
+      "/Contracts/Photoshopping of file/Untitled-03---Copy.png"
+    ]
+  },
+  {
+    "id": 54,
+    "serial": 54,
+    "title": "Online Vocational School Certificate",
+    "company": "Range Meat Academy",
+    "rating": 5,
+    "clientName": "Kari Underly",
+    "clientPhoto": "/Portraits/Kari Underly.webp",
+    "feedback": "",
+    "category": "Print / Web / Logos / Digital Certificate / PDF Fillable Certificate / Digital Files for Store / Thumbnail Images of Digital Files",
+    "delivered": "/Contracts/Online Vocational School Certificate/Asset 1RMA WHite.png",
+    "allImages": [
+      "/Contracts/Online Vocational School Certificate/Asset 1RMA WHite.png",
+      "/Contracts/Online Vocational School Certificate/Asset 2RMA RED.png",
+      "/Contracts/Online Vocational School Certificate/Asset 3RMAFlat blue.png",
+      "/Contracts/Online Vocational School Certificate/RMA STORE_1220x630.png",
+      "/Contracts/Online Vocational School Certificate/RMA Store_2.png",
+      "/Contracts/Online Vocational School Certificate/RMA Store_new.png"
+    ]
+  },
+  {
+    "id": 57,
+    "serial": 57,
+    "title": "Ongoing graphic help",
+    "company": "Digital Marketing Agency",
+    "rating": 5,
+    "clientName": "Siobhan Tyrrell",
+    "clientPhoto": "/Portraits/Siobhan Tyrrell.jpg",
+    "feedback": "Nazia is great to work with and we continue to use her.",
+    "category": "Print / Graphic Design / Signage etc.",
+    "delivered": "/Contracts/Ongoing graphic help Digital Marketing Agency/Header-Image.png",
+    "allImages": [
+      "/Contracts/Ongoing graphic help Digital Marketing Agency/Header-Image.png",
+      "/Contracts/Ongoing graphic help Digital Marketing Agency/Layout-1.1.png",
+      "/Contracts/Ongoing graphic help Digital Marketing Agency/The_Chapter_Brand_Guidelines_WIP (2) (2)_Page_01.jpg",
+      "/Contracts/Ongoing graphic help Digital Marketing Agency/The_Chapter_Brand_Guidelines_WIP (2) (2)_Page_02.jpg",
+      "/Contracts/Ongoing graphic help Digital Marketing Agency/The_Chapter_Brand_Guidelines_WIP (2) (2)_Page_03.jpg",
+      "/Contracts/Ongoing graphic help Digital Marketing Agency/The_Chapter_Brand_Guidelines_WIP (2) (2)_Page_04.jpg"
+    ]
+  },
+  {
+    "id": 58,
+    "serial": 58,
+    "title": "Ongoing Graphic Design Assistance",
+    "company": "Mahalo Brands",
+    "rating": 5,
+    "clientName": "David Wood",
+    "clientPhoto": "/Portraits/David Wood.jpg",
+    "feedback": "Excellent Freelancer. I have used her several times. Would highly recommend. A++",
+    "category": "Label Design / Print / Graphic Design",
+    "delivered": "/Contracts/Ongoing Graphic Design Assistance/02-Hero (4)HT.jpg",
+    "allImages": [
+      "/Contracts/Ongoing Graphic Design Assistance/02-Hero (4)HT.jpg",
+      "/Contracts/Ongoing Graphic Design Assistance/3560B21-BNAT-WB__13604.png",
+      "/Contracts/Ongoing Graphic Design Assistance/Bottle rendered.png",
+      "/Contracts/Ongoing Graphic Design Assistance/Bottle2.jpg",
+      "/Contracts/Ongoing Graphic Design Assistance/Bottle2.png",
+      "/Contracts/Ongoing Graphic Design Assistance/Spout-Pouch_mcok_up_back_f2.jpg"
+    ]
+  },
+  {
+    "id": 60,
+    "serial": 60,
+    "title": "November Event posters",
+    "company": "Digital Marketing Agency",
+    "rating": 5,
+    "clientName": "Siobhan Tyrrell",
+    "clientPhoto": "/Portraits/Siobhan Tyrrell.jpg",
+    "feedback": "",
+    "category": "Print / Graphic Design / Adobe InDesign",
+    "delivered": "/Contracts/November Event posters/GN HOUSE.jpg",
+    "allImages": [
+      "/Contracts/November Event posters/GN HOUSE.jpg"
+    ]
+  },
+  {
+    "id": 62,
+    "serial": 62,
+    "title": "Need Logo made - Vector File creation",
+    "company": "Kayla Wood",
+    "rating": 5,
+    "clientName": "Kayla Wood",
+    "clientPhoto": "/Portraits/Kayla Wood.jpg",
+    "feedback": "VERY FAST! She did an excellent job and I'm content with the finished product.",
+    "category": "",
+    "delivered": "/Contracts/Need Logo made - Vector File creation/My-Slice-of-Simple-5.png",
+    "allImages": [
+      "/Contracts/Need Logo made - Vector File creation/My-Slice-of-Simple-5.png"
+    ]
+  },
+  {
+    "id": 63,
+    "serial": 63,
+    "title": "Need logo in vector",
+    "company": "Love Never Fails International",
+    "rating": 5,
+    "clientName": "John Kraus",
+    "clientPhoto": "/Portraits/John Kraus.jpeg",
+    "feedback": "Excellent Vector!",
+    "category": "Adobe Illustrator / Vector Conversion / Image to Vector",
+    "delivered": "/Contracts/Need logo in vector/SOE-Label2.png",
+    "allImages": [
+      "/Contracts/Need logo in vector/SOE-Label2.png"
+    ]
+  },
+  {
+    "id": 65,
+    "serial": 65,
+    "title": "Need Adobe Illustrator expert to make packaging design edits",
+    "company": "Patrick Schnettler",
+    "rating": 5,
+    "clientName": "Patrick Schnettler",
+    "clientPhoto": "/Portraits/Patrick Schnettler.jpg",
+    "feedback": "",
+    "category": "PDF Editing / Illustrator Document Creation and Editing",
+    "delivered": "/Contracts/Need Adobe Illustrator expert to make packaging design edits/12 Tides Sea Salt print.jpg",
+    "allImages": [
+      "/Contracts/Need Adobe Illustrator expert to make packaging design edits/12 Tides Sea Salt print.jpg"
+    ]
+  },
+  {
+    "id": 70,
+    "serial": 70,
+    "title": "Make website banner with example",
+    "company": "Love Never Fails International",
+    "rating": 5,
+    "clientName": "John Kraus",
+    "clientPhoto": "/Portraits/John Kraus.jpeg",
+    "feedback": "",
+    "category": "Adobe Illustrator / Vector Conversion / Image to Vector / Banner Design",
+    "delivered": "/Contracts/Make website banner with example/Web_Banner_Love-Never-Fails.jpg",
+    "allImages": [
+      "/Contracts/Make website banner with example/Web_Banner_Love-Never-Fails.jpg"
+    ]
+  },
+  {
+    "id": 73,
+    "serial": 73,
+    "title": "Make tshirt design",
+    "company": "Love Never Fails International",
+    "rating": 5,
+    "clientName": "John Kraus",
+    "clientPhoto": "/Portraits/John Kraus.jpeg",
+    "feedback": "",
+    "category": "Adobe Illustrator / Adobe Photoshop / Vector Conversion / Image to Vector / Banner Design",
+    "delivered": "/Contracts/Make tshirt design/Mockup.jpg",
+    "allImages": [
+      "/Contracts/Make tshirt design/Mockup.jpg"
+    ]
+  },
+  {
+    "id": 74,
+    "serial": 74,
+    "title": "Make Pledge Form from copy",
+    "company": "Love Never Fails International",
+    "rating": 5,
+    "clientName": "John Kraus",
+    "clientPhoto": "/Portraits/John Kraus.jpeg",
+    "feedback": "Give her a picture of something and she's great at making it for you in ai vector.",
+    "category": "Adobe Illustrator / Vector Conversion / Image to Vector / Banner Design",
+    "delivered": "/Contracts/Make Pledge Form from copy/Pledge Form 2019 Annual Gala.jpg",
+    "allImages": [
+      "/Contracts/Make Pledge Form from copy/Pledge Form 2019 Annual Gala.jpg"
+    ]
+  },
+  {
+    "id": 75,
+    "serial": 75,
+    "title": "make jpg in color",
+    "company": "Love Never Fails International",
+    "rating": 5,
+    "clientName": "John Kraus",
+    "clientPhoto": "/Portraits/John Kraus.jpeg",
+    "feedback": "Great job making bw pic to color.",
+    "category": "Adobe Photoshop / B&W to Color",
+    "delivered": "/Contracts/make jpg in color/BW photo - Child from India at School-color.jpg",
+    "allImages": [
+      "/Contracts/make jpg in color/BW photo - Child from India at School-color.jpg",
+      "/Contracts/make jpg in color/BW photo - Child from India at School.jpg"
+    ]
+  },
+  {
+    "id": 76,
+    "serial": 76,
+    "title": "make image 1920x1080 pixels",
+    "company": "Love Never Fails International",
+    "rating": 5,
+    "clientName": "John Kraus",
+    "clientPhoto": "/Portraits/John Kraus.jpeg",
+    "feedback": "",
+    "category": "Adobe Photoshop / Image Enlargement / Image Editing",
+    "delivered": "/Contracts/make image 1920x1080 pixels/FB 1 day left.jpg",
+    "allImages": [
+      "/Contracts/make image 1920x1080 pixels/FB 1 day left.jpg"
+    ]
+  },
+  {
+    "id": 77,
+    "serial": 77,
+    "title": "Make changes to a ai file and insert in other ai file.",
+    "company": "Love Never Fails International",
+    "rating": 5,
+    "clientName": "John Kraus",
+    "clientPhoto": "/Portraits/John Kraus.jpeg",
+    "feedback": "",
+    "category": "Adobe Illustrator / Vector Conversion / Image to Vector / Banner Design / Illustrator Editing",
+    "delivered": "/Contracts/Make changes to a ai file and insert in other ai file/Annual-Report-2020-ai-Naz-7.jpg",
+    "allImages": [
+      "/Contracts/Make changes to a ai file and insert in other ai file/Annual-Report-2020-ai-Naz-7.jpg"
+    ]
+  },
+  {
+    "id": 78,
+    "serial": 78,
+    "title": "Make changes in a PDF",
+    "company": "Love Never Fails International",
+    "rating": 5,
+    "clientName": "John Kraus",
+    "clientPhoto": "/Portraits/John Kraus.jpeg",
+    "feedback": "Thanks!",
+    "category": "Adobe Illustrator / Vector Conversion / Image to Vector / PDF Editing",
+    "delivered": "/Contracts/Make Changes in a PDF/ECFA-Dark-Logo.png",
+    "allImages": [
+      "/Contracts/Make Changes in a PDF/ECFA-Dark-Logo.png",
+      "/Contracts/Make Changes in a PDF/Pledge Form LNFI 2019 Naz editable (1).jpg",
+      "/Contracts/Make Changes in a PDF/Pledge Form from 1stchoice-editable.jpg"
+    ]
+  },
+  {
+    "id": 80,
+    "serial": 80,
+    "title": "Logo in vectorial format",
+    "company": "Scelgo Salento",
+    "rating": 5,
+    "clientName": "Antonio Marciante",
+    "clientPhoto": "/Portraits/Atonio Marciante.jpg",
+    "feedback": "Nazia is always available to do projects with availability, adherence to schedule and good quality. I am happy to work with her.",
+    "category": "Adobe Illustrator / Vector Conversion / Image to Vector / Banner Design / Illustrator Editing",
+    "delivered": "/Contracts/Logo in vectorial format/DISCOVERING SALENTO LOGO.jpg",
+    "allImages": [
+      "/Contracts/Logo in vectorial format/DISCOVERING SALENTO LOGO.jpg"
+    ]
+  },
+  {
+    "id": 81,
+    "serial": 81,
+    "title": "Logo Conversion to Adobe Illustrator",
+    "company": "Cynthia Persaud",
+    "rating": 5,
+    "clientName": "Cynthia Persaud",
+    "clientPhoto": "/Portraits/Cynthia Persaud.jpg",
+    "feedback": "",
+    "category": "Adobe Illustrator / Vector Conversion / Image to Vector / Banner Design / Illustrator Editing",
+    "delivered": "/Contracts/Cynthia Persuad Logo Conversion to Adobe Illustrator/dark_logo_transparent_background.png",
+    "allImages": [
+      "/Contracts/Cynthia Persuad Logo Conversion to Adobe Illustrator/dark_logo_transparent_background.png",
+      "/Contracts/Cynthia Persuad Logo Conversion to Adobe Illustrator/dark_logo_white_background.png",
+      "/Contracts/Cynthia Persuad Logo Conversion to Adobe Illustrator/logo_transparent_background.png",
+      "/Contracts/Cynthia Persuad Logo Conversion to Adobe Illustrator/white_logo_dark_background.png",
+      "/Contracts/Cynthia Persuad Logo Conversion to Adobe Illustrator/white_logo_transparent_background.png"
+    ]
+  },
+  {
+    "id": 84,
+    "serial": 84,
+    "title": "Inspirational Poster Needed (direct copy of one that's already made, very simple typeface based)",
+    "company": "Kay Lee",
+    "rating": 5,
+    "clientName": "Kay Lee",
+    "clientPhoto": "/Portraits/Kay Lee.jpg",
+    "feedback": "Nazia exceeded my expectations on our poster design work. She delivered just what we needed on time and with a beautiful finish. She is one of the fastest designers I have ever worked with. I would work with Nazia in the future.",
+    "category": "Adobe Illustrator / Vector Conversion / Image to Vector / Banner Design / Illustrator Editing",
+    "delivered": "/Contracts/Inspirational Poster Needed (direct copy of one that's already made, very simple typeface based)/1.jpg",
+    "allImages": [
+      "/Contracts/Inspirational Poster Needed (direct copy of one that's already made, very simple typeface based)/1.jpg",
+      "/Contracts/Inspirational Poster Needed (direct copy of one that's already made, very simple typeface based)/2.jpg",
+      "/Contracts/Inspirational Poster Needed (direct copy of one that's already made, very simple typeface based)/3-camera-quote-VECTOR.jpg",
+      "/Contracts/Inspirational Poster Needed (direct copy of one that's already made, very simple typeface based)/3.jpg",
+      "/Contracts/Inspirational Poster Needed (direct copy of one that's already made, very simple typeface based)/4-The-secret-to-change.jpg",
+      "/Contracts/Inspirational Poster Needed (direct copy of one that's already made, very simple typeface based)/4.jpg",
+      "/Contracts/Inspirational Poster Needed (direct copy of one that's already made, very simple typeface based)/5.jpg"
+    ]
+  },
+  {
+    "id": 86,
+    "serial": 86,
+    "title": "InDesign doc update for print and pdf",
+    "company": "Pithy Productions, Inc.",
+    "rating": 5,
+    "clientName": "Kerry Watson King",
+    "clientPhoto": "/Portraits/Kerry Watson King.jpg",
+    "feedback": "Love working with this Upworker, wish all workers were like her. Will hire again!!!",
+    "category": "Adobe InDesign / cheat sheets / PDF Editing",
+    "delivered": "/Contracts/InDesign doc update for print and pdf/2017-07v1-conda-cheatsheet-web_Page_1.jpg",
+    "allImages": [
+      "/Contracts/InDesign doc update for print and pdf/2017-07v1-conda-cheatsheet-web_Page_1.jpg",
+      "/Contracts/InDesign doc update for print and pdf/2017-07v1-conda-cheatsheet-web_Page_2.jpg",
+      "/Contracts/InDesign doc update for print and pdf/ANACONDA-TESSELLATION-NEW.jpg"
+    ]
+  },
+  {
+    "id": 89,
+    "serial": 89,
+    "title": "I need adobe illustrator helper",
+    "company": "Zino",
+    "rating": 5,
+    "clientName": "Radoslav Zinoviev",
+    "clientPhoto": "/Portraits/Radoslav Zinoviev.jpg",
+    "feedback": "Great work! Thank you!",
+    "category": "Adobe Illustrator / Vector Conversion / Image to Vector / Logo / Illustrator Editing",
+    "delivered": "/Contracts/I need adobe illustrator helper Radoslav Zinoviev/Modified with 25 percent opacity_Page_1.jpg",
+    "allImages": [
+      "/Contracts/I need adobe illustrator helper Radoslav Zinoviev/Modified with 25 percent opacity_Page_1.jpg",
+      "/Contracts/I need adobe illustrator helper Radoslav Zinoviev/Modified with 25 percent opacity_Page_2.jpg",
+      "/Contracts/I need adobe illustrator helper Radoslav Zinoviev/Modified with 50 percent opacity_Page_1.jpg",
+      "/Contracts/I need adobe illustrator helper Radoslav Zinoviev/Modified with 50 percent opacity_Page_2.jpg"
+    ]
+  },
+  {
+    "id": 90,
+    "serial": 90,
+    "title": "Handmade in America stamp",
+    "company": "-",
+    "rating": 5,
+    "clientName": "Simona Dedek",
+    "clientPhoto": "/Portraits/Simona Dedek.jpg",
+    "feedback": "Fantastic designer to work with, Nazia was very patient with me, and so responsive. I am very happy with her work, and will seek her out again.",
+    "category": "Adobe Illustrator / Vector Conversion / Image to Vector / Logo / Illustrator Editing",
+    "delivered": "/Contracts/Handmade in America stamp/PETAL CONNECTION 300dpi.png",
+    "allImages": [
+      "/Contracts/Handmade in America stamp/PETAL CONNECTION 300dpi.png",
+      "/Contracts/Handmade in America stamp/PETAL CONNECTION.jpg"
+    ]
+  },
+  {
+    "id": 91,
+    "serial": 91,
+    "title": "Graphics expert",
+    "company": "BMP Inc",
+    "rating": 5,
+    "clientName": "Brad Montgomery",
+    "clientPhoto": "/Portraits/Brad Montgomery.jpg",
+    "feedback": "Excellent work. I love working with her!!!",
+    "category": "Graphic Design / Editing",
+    "delivered": "/Contracts/Graphics expert Brad Montgomery/MACY'S - Height 1.75_Edited on 05-06-25_Page_1.jpg",
+    "allImages": [
+      "/Contracts/Graphics expert Brad Montgomery/MACY'S - Height 1.75_Edited on 05-06-25_Page_1.jpg",
+      "/Contracts/Graphics expert Brad Montgomery/MACY'S - Height 1.75_Edited on 05-06-25_Page_2.jpg"
+    ]
+  },
+  {
+    "id": 92,
+    "serial": 92,
+    "title": "Graphic Production of small files",
+    "company": "Digital Marketing Agency",
+    "rating": 5,
+    "clientName": "Siobhan Tyrrell",
+    "clientPhoto": "/Portraits/Siobhan Tyrrell.jpg",
+    "feedback": "We were very happy with the quality and timeliness of work. Communication and organisational skills were excellent. It was a pleasure to work with Nazia and we hope to work with her again.",
+    "category": "Print / Graphic Design / Signage etc.",
+    "delivered": "/Contracts/Graphic Production of small files Digtal Marketing Agency/100AstorHouse_OutsideLiftD6.jpg",
+    "allImages": [
+      "/Contracts/Graphic Production of small files Digtal Marketing Agency/100AstorHouse_OutsideLiftD6.jpg",
+      "/Contracts/Graphic Production of small files Digtal Marketing Agency/101AstorHouse_StairwellD6.jpg"
+    ]
+  },
+  {
+    "id": 93,
+    "serial": 93,
+    "title": "Graphic for stickers",
+    "company": "LIBEROSOCIAL S.R.L.",
+    "rating": 5,
+    "clientName": "Andrea Messetti",
+    "clientPhoto": "/Portraits/Andrea Messetti.avif",
+    "feedback": "As always, very kind, precise and great quality of work. Thank you Nazia!",
+    "category": "Print / Graphic Design /  Mobile App Design / Logos / Icons / Adobe Illustrator / Photshop",
+    "delivered": "/Contracts/Graphic for stickers/1st-image-FE.png",
+    "allImages": [
+      "/Contracts/Graphic for stickers/1st-image-FE.png",
+      "/Contracts/Graphic for stickers/2nd-image-FE.png",
+      "/Contracts/Graphic for stickers/3rd-image-FE.png",
+      "/Contracts/Graphic for stickers/4th-image-FE.png",
+      "/Contracts/Graphic for stickers/5th-image-FE.png",
+      "/Contracts/Graphic for stickers/Sticker AskU app 2.png",
+      "/Contracts/Graphic for stickers/asku-app-logo-(1).png"
+    ]
+  },
+  {
+    "id": 97,
+    "serial": 97,
+    "title": "Fix LRAS artwork",
+    "company": "Triplepoint Environmental",
+    "rating": 5,
+    "clientName": "Patrick Hill",
+    "clientPhoto": "/Portraits/patrick-hill.webp",
+    "feedback": "",
+    "category": "Print / Graphic Design / Brochures / Adobe Illustrator",
+    "delivered": "/Contracts/Fix LRAS artwork/LRAS_brochure_Page_1.jpg",
+    "allImages": [
+      "/Contracts/Fix LRAS artwork/LRAS_brochure_Page_1.jpg",
+      "/Contracts/Fix LRAS artwork/LRAS_brochure_Page_2.jpg",
+      "/Contracts/Fix LRAS artwork/LRAS_brochure_Page_3.jpg",
+      "/Contracts/Fix LRAS artwork/LRAS_brochure_Page_4.jpg"
+    ]
+  },
+  {
+    "id": 98,
+    "serial": 98,
+    "title": "Finalize logo in Adobe Illustrator",
+    "company": "Real Estate",
+    "rating": 5,
+    "clientName": "Marcel Ford",
+    "clientPhoto": "/Portraits/Marcel Ford.jpg",
+    "feedback": "She was the first to reply to my job and the best in getting it done fast too... Friendly personality (on the screen), good English skills and ensuring the quality was 5 Stars... Working with her now on other projects.",
+    "category": "Adobe Illustrator / Vector Conversion / Image to Vector / Logo / Illustrator Editing / Web / Print",
+    "delivered": "/Contracts/Finalize logo in Adobe Illustrator/Botanical Science for print.jpg",
+    "allImages": [
+      "/Contracts/Finalize logo in Adobe Illustrator/Botanical Science for print.jpg",
+      "/Contracts/Finalize logo in Adobe Illustrator/Botanical Science for print.png",
+      "/Contracts/Finalize logo in Adobe Illustrator/Botanical-Science-for-Screen.jpg",
+      "/Contracts/Finalize logo in Adobe Illustrator/Botanical-Science-for-Screen.png"
+    ]
+  },
+  {
+    "id": 100,
+    "serial": 100,
+    "title": "Elementor/Design/Pricing Table",
+    "company": "JP Projects",
+    "rating": 5,
+    "clientName": "Yuta Aoki",
+    "clientPhoto": "/Portraits/Yuta Aoki.jpg",
+    "feedback": "",
+    "category": "Web /  Wordpress / Elementor / Custom Design Element / Pricing Table",
+    "delivered": "/Contracts/ElementorDesignPricing Table/image.png",
+    "allImages": [
+      "/Contracts/ElementorDesignPricing Table/image.png"
+    ]
+  },
+  {
+    "id": 102,
+    "serial": 102,
+    "title": "Editing an illustrator file",
+    "company": "Scelgo Salento",
+    "rating": 5,
+    "clientName": "Antonio Marciante",
+    "clientPhoto": "/Portraits/Atonio Marciante.jpg",
+    "feedback": "Very quick and professional project, well done!",
+    "category": "Web / Print / Ads / Adobe Illustrator / Adobe Photoshop",
+    "delivered": "/Contracts/Editing an illustrator file Antonio/Web.jpg",
+    "allImages": [
+      "/Contracts/Editing an illustrator file Antonio/Web.jpg"
+    ]
+  },
+  {
+    "id": 103,
+    "serial": 103,
+    "title": "Edit pdf",
+    "company": "Love Never Fails International",
+    "rating": 5,
+    "clientName": "John Kraus",
+    "clientPhoto": "/Portraits/John Kraus.jpeg",
+    "feedback": "",
+    "category": "Web / Print / Fillable PDF / Adobe Illustrator / PDF / Vector Conversion",
+    "delivered": "/Contracts/Edit PDF/Pledge Form Updated with onetime monthly and pledge sept 30 2019.jpg",
+    "allImages": [
+      "/Contracts/Edit PDF/Pledge Form Updated with onetime monthly and pledge sept 30 2019.jpg"
+    ]
+  },
+  {
+    "id": 104,
+    "serial": 104,
+    "title": "Duplicate a map from a scan image",
+    "company": "Scelgo Salento",
+    "rating": 5,
+    "clientName": "Antonio Marciante",
+    "clientPhoto": "/Portraits/Atonio Marciante.jpg",
+    "feedback": "Excellent job, she did perfectly what I told her, with great quality and on time. Well done.",
+    "category": "Web / Print / Fillable PDF / Adobe Illustrator / PDF / Vector Conversion",
+    "delivered": "/Contracts/Duplicate a map from a scan image/Map Vector.jpg",
+    "allImages": [
+      "/Contracts/Duplicate a map from a scan image/Map Vector.jpg",
+      "/Contracts/Duplicate a map from a scan image/Map.jpg"
+    ]
+  },
+  {
+    "id": 106,
+    "serial": 106,
+    "title": "design simple image for mailchimp",
+    "company": "Love Never Fails International",
+    "rating": 5,
+    "clientName": "John Kraus",
+    "clientPhoto": "/Portraits/John Kraus.jpeg",
+    "feedback": "",
+    "category": "Web / Ads / Adobe Illustrator",
+    "delivered": "/Contracts/design simple image for mailchimp/HAPPY THANKSGIVING.jpg",
+    "allImages": [
+      "/Contracts/design simple image for mailchimp/HAPPY THANKSGIVING.jpg"
+    ]
+  },
+  {
+    "id": 108,
+    "serial": 108,
+    "title": "Design Business Cards",
+    "company": "Love Never Fails International",
+    "rating": 5,
+    "clientName": "John Kraus",
+    "clientPhoto": "/Portraits/John Kraus.jpeg",
+    "feedback": "Thanks!",
+    "category": "Print / Adobe Illustrator",
+    "delivered": "/Contracts/Design Business Cards/Pasted File at September 9, 2019 5_07 PM.png",
+    "allImages": [
+      "/Contracts/Design Business Cards/Pasted File at September 9, 2019 5_07 PM.png"
+    ]
+  },
+  {
+    "id": 109,
+    "serial": 109,
+    "title": "Design annual report in ai",
+    "company": "Love Never Fails International",
+    "rating": 5,
+    "clientName": "John Kraus",
+    "clientPhoto": "/Portraits/John Kraus.jpeg",
+    "feedback": "Naz made our 10 page Annual Report for us. It took a lot of drafts workign back and forth. She was excellent as usual. So thankful for her. We gave a 35% bonus for her hard work!",
+    "category": "Graphic Design / Annual Report / Inforgraphics / PDF / Adobe Illustrator",
+    "delivered": "/Contracts/Design annual report in ai/Annual Report 2020 ai Naz 6_Page_01.jpg",
+    "allImages": [
+      "/Contracts/Design annual report in ai/Annual Report 2020 ai Naz 6_Page_01.jpg",
+      "/Contracts/Design annual report in ai/Annual Report 2020 ai Naz 6_Page_02.jpg",
+      "/Contracts/Design annual report in ai/Annual Report 2020 ai Naz 6_Page_03.jpg",
+      "/Contracts/Design annual report in ai/Annual Report 2020 ai Naz 6_Page_04.jpg",
+      "/Contracts/Design annual report in ai/Annual Report 2020 ai Naz 6_Page_05.jpg",
+      "/Contracts/Design annual report in ai/Annual Report 2020 ai Naz 6_Page_06.jpg",
+      "/Contracts/Design annual report in ai/Annual Report 2020 ai Naz 6_Page_07.jpg",
+      "/Contracts/Design annual report in ai/Annual Report 2020 ai Naz 6_Page_08.jpg",
+      "/Contracts/Design annual report in ai/Annual Report 2020 ai Naz 6_Page_09.jpg",
+      "/Contracts/Design annual report in ai/Annual Report 2020 ai Naz 6_Page_10.jpg"
+    ]
+  },
+  {
+    "id": 112,
+    "serial": 112,
+    "title": "Create vector poster board",
+    "company": "Love Never Fails International",
+    "rating": 5,
+    "clientName": "John Kraus",
+    "clientPhoto": "/Portraits/John Kraus.jpeg",
+    "feedback": "Thanks for setting up a poster. You were great.",
+    "category": "Poster / Web / Graphic Design / Adobe Illustrator",
+    "delivered": "/Contracts/Create vector poster board/Poster-Naz,-Sponsor-A-Child-March-2019-with-.125-bleed.png",
+    "allImages": [
+      "/Contracts/Create vector poster board/Poster-Naz,-Sponsor-A-Child-March-2019-with-.125-bleed.png"
+    ]
+  },
+  {
+    "id": 114,
+    "serial": 114,
+    "title": "create simple vector in text",
+    "company": "Love Never Fails International",
+    "rating": 5,
+    "clientName": "John Kraus",
+    "clientPhoto": "/Portraits/John Kraus.jpeg",
+    "feedback": "She was the first to reply to my job and the best in getting it done fast too... Friendly personality (on the screen), good English skills and ensuring the quality was 5 Stars... Working with her now on other projects.",
+    "category": "Graphic Design / Adobe Illustrator / Web / Shopping Card",
+    "delivered": "/Contracts/create simple vector in text/Annual Report 2020 ai Naz 7_Page_01.jpg",
+    "allImages": [
+      "/Contracts/create simple vector in text/Annual Report 2020 ai Naz 7_Page_01.jpg",
+      "/Contracts/create simple vector in text/Annual Report 2020 ai Naz 7_Page_02.jpg",
+      "/Contracts/create simple vector in text/Annual Report 2020 ai Naz 7_Page_03.jpg",
+      "/Contracts/create simple vector in text/Annual Report 2020 ai Naz 7_Page_04.jpg",
+      "/Contracts/create simple vector in text/Annual Report 2020 ai Naz 7_Page_05.jpg",
+      "/Contracts/create simple vector in text/Annual Report 2020 ai Naz 7_Page_06.jpg",
+      "/Contracts/create simple vector in text/Annual Report 2020 ai Naz 7_Page_07.jpg",
+      "/Contracts/create simple vector in text/Annual Report 2020 ai Naz 7_Page_08.jpg",
+      "/Contracts/create simple vector in text/Annual Report 2020 ai Naz 7_Page_09.jpg",
+      "/Contracts/create simple vector in text/Annual Report 2020 ai Naz 7_Page_10.jpg",
+      "/Contracts/create simple vector in text/Back.jpg",
+      "/Contracts/create simple vector in text/Front.jpg",
+      "/Contracts/create simple vector in text/Love Never Fails Int - Map of India Dots Nov 2019 (1).jpg"
+    ]
+  },
+  {
+    "id": 115,
+    "serial": 115,
+    "title": "Create Post Card Design front and back for Direct Mailing",
+    "company": "Love Never Fails International",
+    "rating": 5,
+    "clientName": "John Kraus",
+    "clientPhoto": "/Portraits/John Kraus.jpeg",
+    "feedback": "Thanks.",
+    "category": "Graphic Design / Adobe Illustrator / Web / Post Card",
+    "delivered": "/Contracts/Create Post Card Design front and back for Direct Mailing/back_revised.jpg",
+    "allImages": [
+      "/Contracts/Create Post Card Design front and back for Direct Mailing/back_revised.jpg"
+    ]
+  },
+  {
+    "id": 116,
+    "serial": 116,
+    "title": "Create Letter from scratch using illustrator",
+    "company": "Love Never Fails International",
+    "rating": 5,
+    "clientName": "John Kraus",
+    "clientPhoto": "/Portraits/John Kraus.jpeg",
+    "feedback": "",
+    "category": "Flayer Design / Graphic Design / Adobe Illustrator / Print",
+    "delivered": "/Contracts/Create Letter from scratch using illustrator/Back-01.jpg",
+    "allImages": [
+      "/Contracts/Create Letter from scratch using illustrator/Back-01.jpg",
+      "/Contracts/Create Letter from scratch using illustrator/Front-01.jpg"
+    ]
+  },
+  {
+    "id": 117,
+    "serial": 117,
+    "title": "Create letter from scratch using Adobe Illustrator",
+    "company": "Love Never Fails International",
+    "rating": 5,
+    "clientName": "John Kraus",
+    "clientPhoto": "/Portraits/John Kraus.jpeg",
+    "feedback": "Nice working with Naz as we build our relationship since 1yr.",
+    "category": "Introduction Letter / Graphic Design / Print / Adobe Illustrator",
+    "delivered": "/Contracts/Create letter from scratch using Adobe Illustrator/Letter's-Back.jpg",
+    "allImages": [
+      "/Contracts/Create letter from scratch using Adobe Illustrator/Letter's-Back.jpg",
+      "/Contracts/Create letter from scratch using Adobe Illustrator/Letter's-Front.jpg"
+    ]
+  },
+  {
+    "id": 118,
+    "serial": 118,
+    "title": "Create icons for exisiting child sponsorship letter",
+    "company": "Love Never Fails International",
+    "rating": 5,
+    "clientName": "John Kraus",
+    "clientPhoto": "/Portraits/John Kraus.jpeg",
+    "feedback": "",
+    "category": "Letter / Icons / Graphic Design / Adobe Illustrator",
+    "delivered": "/Contracts/Create icons for exisiting child sponsorship letter/LNFI Sponsor to child letter Final with bleed_Page_1.jpg",
+    "allImages": [
+      "/Contracts/Create icons for exisiting child sponsorship letter/LNFI Sponsor to child letter Final with bleed_Page_1.jpg",
+      "/Contracts/Create icons for exisiting child sponsorship letter/LNFI Sponsor to child letter Final with bleed_Page_2.jpg"
+    ]
+  },
+  {
+    "id": 119,
+    "serial": 119,
+    "title": "Create e-mail header for mailchimp template for a sale.",
+    "company": "Vital Traffic Labs",
+    "rating": 5,
+    "clientName": "David Schlais",
+    "clientPhoto": "/Portraits/David Schlais.jpg",
+    "feedback": "Great to work with will be using again",
+    "category": "",
+    "delivered": "/Contracts/Create e-mail header for mailchimp template for a sale/1.jpg",
+    "allImages": [
+      "/Contracts/Create e-mail header for mailchimp template for a sale/1.jpg",
+      "/Contracts/Create e-mail header for mailchimp template for a sale/2.jpg",
+      "/Contracts/Create e-mail header for mailchimp template for a sale/3.jpg",
+      "/Contracts/Create e-mail header for mailchimp template for a sale/BlackFriday (1).jpg",
+      "/Contracts/Create e-mail header for mailchimp template for a sale/BlackFriday (2).jpg",
+      "/Contracts/Create e-mail header for mailchimp template for a sale/BlackFriday.jpg"
+    ]
+  },
+  {
+    "id": 122,
+    "serial": 122,
+    "title": "Create an instagram photo cutout",
+    "company": "Arizona National Livestock Show",
+    "rating": 5,
+    "clientName": "Tyler Grandil",
+    "clientPhoto": "/Portraits/Tyler Grandil.jpg",
+    "feedback": "Nazia was great to work with!",
+    "category": "Graphic Design / Adobe Illustrator / Print",
+    "delivered": "/Contracts/Create an instagram photo cutout/Arizonanational Outlined_2.jpg",
+    "allImages": [
+      "/Contracts/Create an instagram photo cutout/Arizonanational Outlined_2.jpg"
+    ]
+  },
+  {
+    "id": 125,
+    "serial": 125,
+    "title": "Create a vector illustration form a jpeg",
+    "company": "Uno Consulting Gmbh",
+    "rating": 5,
+    "clientName": "Radhika Nathwani",
+    "clientPhoto": "/Portraits/Radhika Nathwani.jpg",
+    "feedback": "excellent work, done efficiently with full dedication",
+    "category": "Adobe Illustrator / JPG to vector / Vector Conversion",
+    "delivered": "/Contracts/Create a vector illustration form a jpeg/Vector-Image.jpg",
+    "allImages": [
+      "/Contracts/Create a vector illustration form a jpeg/Vector-Image.jpg"
+    ]
+  },
+  {
+    "id": 126,
+    "serial": 126,
+    "title": "Create a request form in INDD format",
+    "company": "Andrew  Makari",
+    "rating": 5,
+    "clientName": "Andrew Makari",
+    "clientPhoto": "/Portraits/Andrew Makari.png",
+    "feedback": "Nazia was exceptional an amazing job with all the edits",
+    "category": "Adobe Indesign / PDF / PDF Forms / PDF Fillable Forms",
+    "delivered": "/Contracts/Create a request form in INDD format/Allied health – Physiotherapist, Osteopath and Chiropractor for Web_Page_1.jpg",
+    "allImages": [
+      "/Contracts/Create a request form in INDD format/EMRG_Page_1.jpg",
+      "/Contracts/Create a request form in INDD format/EMRG_Page_2.jpg",
+      "/Contracts/Create a request form in INDD format/General_Page_1.jpg",
+      "/Contracts/Create a request form in INDD format/General_Page_2.jpg"
+    ]
+  },
+  {
+    "id": 127,
+    "serial": 127,
+    "title": "Create a Price Tag.           Super Easy job.        Adobe Illustrator or similar?",
+    "company": "BMP Inc",
+    "rating": 5,
+    "clientName": "Brad Montgomery",
+    "clientPhoto": "/Portraits/Brad Montgomery.jpg",
+    "feedback": "Straight forward job done expertly. There was one issue, which Nazia corrected immediately. Very classy and professional!!!! Hire her!",
+    "category": "Adobe Illustrator / JPG to vector / Vector Conversion",
+    "delivered": "/Contracts/Create a Price Tag. Super Easy job. Adobe Illustrator or similar/MACY'S - Height 1.75_Page_1.jpg",
+    "allImages": [
+      "/Contracts/Create a Price Tag. Super Easy job. Adobe Illustrator or similar/MACY'S - Height 1.75_Page_1.jpg",
+      "/Contracts/Create a Price Tag. Super Easy job. Adobe Illustrator or similar/MACY'S - Height 1.75_Page_2.jpg"
+    ]
+  },
+  {
+    "id": 128,
+    "serial": 128,
+    "title": "copy pics into vector image",
+    "company": "Love Never Fails International",
+    "rating": 5,
+    "clientName": "John Kraus",
+    "clientPhoto": "/Portraits/John Kraus.jpeg",
+    "feedback": "Super fast. Great at communicating. Pleasure to work with.",
+    "category": "Adobe Illustrator / JPG to vector / Vector Conversion",
+    "delivered": "/Contracts/copy pics into vector image/Front 25-05-2019.jpg",
+    "allImages": [
+      "/Contracts/copy pics into vector image/Front 25-05-2019.jpg",
+      "/Contracts/copy pics into vector image/back 25-05-2019.jpg"
+    ]
+  },
+  {
+    "id": 129,
+    "serial": 129,
+    "title": "Copy a pdf to match another pdf font",
+    "company": "Love Never Fails International",
+    "rating": 5,
+    "clientName": "John Kraus",
+    "clientPhoto": "/Portraits/John Kraus.jpeg",
+    "feedback": "",
+    "category": "Adobe Illustrator / JPG to vector / Vector Conversion",
+    "delivered": "/Contracts/Copy a pdf to match another pdf font/Dec 2019 Financial Statements for Word_Page_01.jpg",
+    "allImages": [
+      "/Contracts/Copy a pdf to match another pdf font/Dec 2019 Financial Statements for Word_Page_01.jpg",
+      "/Contracts/Copy a pdf to match another pdf font/Dec 2019 Financial Statements for Word_Page_02.jpg",
+      "/Contracts/Copy a pdf to match another pdf font/Dec 2019 Financial Statements for Word_Page_03.jpg",
+      "/Contracts/Copy a pdf to match another pdf font/Dec 2019 Financial Statements for Word_Page_04.jpg",
+      "/Contracts/Copy a pdf to match another pdf font/Dec 2019 Financial Statements for Word_Page_05.jpg",
+      "/Contracts/Copy a pdf to match another pdf font/Dec 2019 Financial Statements for Word_Page_06.jpg"
+    ]
+  },
+  {
+    "id": 131,
+    "serial": 131,
+    "title": "Christmas-flyer",
+    "company": "Love Never Fails International",
+    "rating": 5,
+    "clientName": "John Kraus",
+    "clientPhoto": "/Portraits/John Kraus.jpeg",
+    "feedback": "",
+    "category": "Adobe Illustrator / Flayer Design/  JPG to vector / Vector Conversion",
+    "delivered": "/Contracts/Christmas-flyer/Christmas Gift-01.jpg",
+    "allImages": [
+      "/Contracts/Christmas-flyer/Christmas Gift-01.jpg",
+      "/Contracts/Christmas-flyer/Christmas Gift-02.jpg",
+      "/Contracts/Christmas-flyer/HAPPY-THANKSGIVING.jpg"
+    ]
+  },
+  {
+    "id": 132,
+    "serial": 132,
+    "title": "Change image size",
+    "company": "Love Never Fails International",
+    "rating": 5,
+    "clientName": "John Kraus",
+    "clientPhoto": "/Portraits/John Kraus.jpeg",
+    "feedback": "",
+    "category": "Adobe Illustrator / Image enlargment / Facebook Images",
+    "delivered": "/Contracts/Change image size/1080p.jpg",
+    "allImages": [
+      "/Contracts/Change image size/1080p.jpg"
+    ]
+  },
+  {
+    "id": 133,
+    "serial": 133,
+    "title": "Change colour of Vector image",
+    "company": "Uno Consulting Gmbh",
+    "rating": 5,
+    "clientName": "Radhika Nathwani",
+    "clientPhoto": "/Portraits/Radhika Nathwani.jpg",
+    "feedback": "excellent work!",
+    "category": "Adobe Illustrator / Color Change / Vector Edits",
+    "delivered": "/Contracts/Change colour of Vector image/Yellow_green.jpg",
+    "allImages": [
+      "/Contracts/Change colour of Vector image/Yellow_green.jpg"
+    ]
+  },
+  {
+    "id": 134,
+    "serial": 134,
+    "title": "Change Background for logo",
+    "company": "Love Never Fails International",
+    "rating": 5,
+    "clientName": "John Kraus",
+    "clientPhoto": "/Portraits/John Kraus.jpeg",
+    "feedback": "Thanks for being such a hard worker and out to please!",
+    "category": "Adobe Illustrator / Color Change / Vector Edits",
+    "delivered": "/Contracts/Change Background for logo/Untitled-1.jpg",
+    "allImages": [
+      "/Contracts/Change Background for logo/Untitled-1.jpg"
+    ]
+  },
+  {
+    "id": 135,
+    "serial": 135,
+    "title": "Change background color",
+    "company": "Love Never Fails International",
+    "rating": 5,
+    "clientName": "John Kraus",
+    "clientPhoto": "/Portraits/John Kraus.jpeg",
+    "feedback": "",
+    "category": "Adobe Illustrator / Color Change / Vector Edits / Vector Conversion / Color Matching",
+    "delivered": "/Contracts/Change background color/8.jpg",
+    "allImages": []
+  },
+  {
+    "id": 136,
+    "serial": 136,
+    "title": "Change a few colors in vector",
+    "company": "Love Never Fails International",
+    "rating": 5,
+    "clientName": "John Kraus",
+    "clientPhoto": "/Portraits/John Kraus.jpeg",
+    "feedback": "",
+    "category": "Adobe Illustrator / Color Change / Vector Edits",
+    "delivered": "/Contracts/Change a few colors in vector/ECFA-Round-Blue-CS6.jpg",
+    "allImages": [
+      "/Contracts/Change a few colors in vector/ECFA-Round-Blue-CS6.jpg"
+    ]
+  },
+  {
+    "id": 137,
+    "serial": 137,
+    "title": "Change a colour in a logo and reproduce in HD formats. Make a GIF out of JPEG.",
+    "company": "Ian Fulton",
+    "rating": 5,
+    "clientName": "Ian Fulton",
+    "clientPhoto": "/Portraits/Ian Fulton.jpg",
+    "feedback": "",
+    "category": "Gif Creation / Adobe Illustrator / Vector Conversion / Edit",
+    "delivered": "/Contracts/Change a colour in a logo and reproduce in HD formats. Make a GIF out of JPEG/THE-WOOLLY-FLAT-LOGO-FILE-Finalized.jpg",
+    "allImages": [
+      "/Contracts/Change a colour in a logo and reproduce in HD formats. Make a GIF out of JPEG/THE-WOOLLY-FLAT-LOGO-FILE-Finalized.jpg",
+      "/Contracts/Change a colour in a logo and reproduce in HD formats. Make a GIF out of JPEG/Train GIF BIGGER Vanishing to Right 0.2.gif"
+    ]
+  },
+  {
+    "id": 138,
+    "serial": 138,
+    "title": "another isolation",
+    "company": "Martin Laschkolnig",
+    "rating": 5,
+    "clientName": "Martin Laschkolnig",
+    "clientPhoto": "/Portraits/Martin Laschkolnig.jpeg",
+    "feedback": "Excellent work, fast and reliable. Will re-hire Nazia with pleasure again.",
+    "category": "Adobe Photoshop / Background Removing",
+    "delivered": "/Contracts/another isolation/IMG_2011.png",
+    "allImages": [
+      "/Contracts/another isolation/IMG_2011.png"
+    ]
+  },
+  {
+    "id": 139,
+    "serial": 139,
+    "title": "AI logo to develop from sketch",
+    "company": "Martin Laschkolnig",
+    "rating": 5,
+    "clientName": "Martin Laschkolnig",
+    "clientPhoto": "/Portraits/Martin Laschkolnig.jpeg",
+    "feedback": "Absolute delight to work with Nazia. Fast, precise, pleasant - a joy!",
+    "category": "Adobe Illustrator / Vector Conversion",
+    "delivered": "/Contracts/AI logo to develop from sketch/Logo New 2.jpg",
+    "allImages": [
+      "/Contracts/AI logo to develop from sketch/Logo New 2.jpg"
+    ]
+  },
+  {
+    "id": 140,
+    "serial": 140,
+    "title": "Affi Tennis Logo Vector Recreation",
+    "company": "LIBEROSOCIAL S.R.L.",
+    "rating": 5,
+    "clientName": "Andrea Messetti",
+    "clientPhoto": "/Portraits/Andrea Messetti.avif",
+    "feedback": "",
+    "category": "Adobe Illustrator / Vector Conversion",
+    "delivered": "/Contracts/Affi Tennis Logo Vector Recreation/AFFI-TENNIS.jpg",
+    "allImages": [
+      "/Contracts/Affi Tennis Logo Vector Recreation/AFFI-TENNIS.jpg"
+    ]
+  },
+  {
+    "id": 144,
+    "serial": 144,
+    "title": "Add a section to ai form",
+    "company": "Love Never Fails International",
+    "rating": 5,
+    "clientName": "John Kraus",
+    "clientPhoto": "/Portraits/John Kraus.jpeg",
+    "feedback": "Thanks!",
+    "category": "Adobe Illustrator / Vector Conversion / Graphic Design",
+    "delivered": "/Contracts/Add a section to ai form/First letter FRONT from Sponsor to child aug 27 2019.jpg",
+    "allImages": [
+      "/Contracts/Add a section to ai form/First letter FRONT from Sponsor to child aug 27 2019.jpg"
+    ]
+  },
+  {
+    "id": 145,
+    "serial": 145,
+    "title": "6 custom stencils",
+    "company": "Shane Dougherty",
+    "rating": 5,
+    "clientName": "Shane Dougherty",
+    "clientPhoto": "/Portraits/Shane Dougherty.jpg",
+    "feedback": "Very prompt with her work and responses!",
+    "category": "Adobe Illustrator / Vector Conversion / Stensils",
+    "delivered": "/Contracts/6 custom stencils/Stencil03.jpg",
+    "allImages": [
+      "/Contracts/6 custom stencils/stencil_1.jpg",
+      "/Contracts/6 custom stencils/stencil_2.jpg"
+    ]
+  },
+  {
+    "id": 146,
+    "serial": 146,
+    "title": "4 logos - convert from .jpg/.png/.eps to .pes for embroidery",
+    "company": "Anna Alexandrova",
+    "rating": 5,
+    "clientName": "Anna Alexandrova",
+    "clientPhoto": "/Portraits/Anna Alexandrova.jpg",
+    "feedback": "",
+    "category": "Embroidery",
+    "delivered": "/Contracts/4 logos - convert from jpg to .pes for embroidery/Antroma_logo_V_3_5.gif",
+    "allImages": [
+      "/Contracts/4 logos - convert from jpg to .pes for embroidery/Antroma_logo_V_3_5.gif"
+    ]
+  },
+  {
+    "id": 148,
+    "serial": 148,
+    "title": "2020 TradeCertified Logos",
+    "company": "Mahalo Brands",
+    "rating": 5,
+    "clientName": "David Wood",
+    "clientPhoto": "/Portraits/David Wood.jpg",
+    "feedback": "",
+    "category": "Adobe Illustrator / Sticker Designs",
+    "delivered": "/Contracts/2020 TradeCertified Logos/COMBO-400X200.jpg",
+    "allImages": [
+      "/Contracts/2020 TradeCertified Logos/COMBO-400X200.jpg",
+      "/Contracts/2020 TradeCertified Logos/COMBO-800X400.jpg",
+      "/Contracts/2020 TradeCertified Logos/SPA-FILTERS-400X400.jpg",
+      "/Contracts/2020 TradeCertified Logos/TC-PoolDealer-2019-400X400.jpg",
+      "/Contracts/2020 TradeCertified Logos/TRIPLE-400X1200.jpg"
+    ]
+  },
+  {
+    "id": 149,
+    "serial": 149,
+    "title": "2 Vector graphics Uurgently needed from Jpegs",
+    "company": "Uno Consulting Gmbh",
+    "rating": 5,
+    "clientName": "Radhika Nathwani",
+    "clientPhoto": "/Portraits/Radhika Nathwani.jpg",
+    "feedback": "Excellent, professional and perfect work! Thank you",
+    "category": "",
+    "delivered": "/Contracts/2 Vector graphics Uurgently needed from Jpegs/Background-2.jpg",
+    "allImages": [
+      "/Contracts/2 Vector graphics Uurgently needed from Jpegs/Background-2.jpg",
+      "/Contracts/2 Vector graphics Uurgently needed from Jpegs/vector.jpg"
+    ]
+  },
+  {
+    "id": 151,
+    "serial": 151,
+    "title": "1 Icon for existing child sponsorship cards",
+    "company": "Love Never Fails International",
+    "rating": 5,
+    "clientName": "John Kraus",
+    "clientPhoto": "/Portraits/John Kraus.jpeg",
+    "feedback": "",
+    "category": "Adobe Illustrator / Vector Conversion / Icon",
+    "delivered": "/Contracts/1 Icon for existing child sponsorship cards/Child labour.jpg",
+    "allImages": [
+      "/Contracts/1 Icon for existing child sponsorship cards/Child labour.jpg"
+    ]
+  },
+  {
+    "id": 154,
+    "serial": 154,
+    "title": "Icons",
+    "company": "Love Never Fails International",
+    "rating": 5,
+    "clientName": "John Kraus",
+    "clientPhoto": "/Portraits/John Kraus.jpeg",
+    "feedback": "Excellent, Perfect!",
+    "category": "Adobe Photoshop / Adobe Illustrator / Icons",
+    "delivered": "/Contracts/Create icons for exisiting child sponsorship letter/LNFI Sponsor to child letter Final with bleed_Page_1.jpg",
+    "allImages": [
+      "/Contracts/Create icons for exisiting child sponsorship letter/LNFI Sponsor to child letter Final with bleed_Page_1.jpg",
+      "/Contracts/Create icons for exisiting child sponsorship letter/LNFI Sponsor to child letter Final with bleed_Page_2.jpg"
+    ]
+  },
+  {
+    "id": 155,
+    "serial": 155,
+    "title": "Logos",
+    "company": "Multiple Clients",
+    "rating": 5,
+    "clientName": "",
+    "clientPhoto": "",
+    "feedback": "",
+    "category": "Adobe Photoshop / Adobe Illustrator / Logos",
+    "delivered": "/Contracts/Urgent! Need vector versions of 4 logos by Friday AM/KOLeeLogo_582x284.png",
+    "allImages": [
+      "/Contracts/2020 TradeCertified Logos/COMBO-400X200.jpg",
+      "/Contracts/2020 TradeCertified Logos/COMBO-800X400.jpg",
+      "/Contracts/2020 TradeCertified Logos/SPA-FILTERS-400X400.jpg",
+      "/Contracts/2020 TradeCertified Logos/TC-PoolDealer-2019-400X400.jpg",
+      "/Contracts/2020 TradeCertified Logos/TRIPLE-400X1200.jpg"
+    ]
+  }
+]
