@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    font-family: 'Space Grotesk', system-ui, sans-serif;
+    background: #f5f4f0;
+    color: #1a1a1a;
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+  /* Offset for fixed header when scrolling to anchors */
+  section[id] {
+    scroll-margin-top: 64px;
+  }
+}
